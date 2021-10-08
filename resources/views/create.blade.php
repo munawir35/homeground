@@ -7,15 +7,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-kQtW33rZJAHjgefvhyyzcGF3C5TFyBQBA13V1RKPf4uH+bwyzQxZ6CmMZHmNBEfJ" crossorigin="anonymous"></script>
-
     <style>
         .div {
             padding: 40px;
             background-image: url("../1.jpg");
             color: white;
-            margin-left: 400px;
-            margin-right: 400px;
-            margin-top: 50px;
+            margin-left: 25%;
+            margin-right: 25%;
+            margin-top: 5%;
             border: 2px;
             border-style: solid;
             border-radius: 10px;
@@ -31,6 +30,11 @@
         
         .otp {
             width: 10px;
+        }
+        
+        body {
+            background-image: url("../3.jpg");
+            background-size: cover;
         }
     </style>
 </head>
